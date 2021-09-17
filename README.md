@@ -4,7 +4,12 @@
 
 I am a frontend dev who is used to working with JavaScript and my framework of choice is React.
 
-
+<img src="https://raw.githubusercontent.com/daawascript/daawascript/711ec936ce37f3a63b2ce068312f89fa74b595d0/img/HTML.svg"/>
+<img src="https://raw.githubusercontent.com/daawascript/daawascript/711ec936ce37f3a63b2ce068312f89fa74b595d0/img/css.svg"/>
+<img src="https://raw.githubusercontent.com/daawascript/daawascript/711ec936ce37f3a63b2ce068312f89fa74b595d0/img/JS.svg"/>
+<img src="https://raw.githubusercontent.com/daawascript/daawascript/711ec936ce37f3a63b2ce068312f89fa74b595d0/img/git.svg" />
+<img src="https://raw.githubusercontent.com/daawascript/daawascript/711ec936ce37f3a63b2ce068312f89fa74b595d0/img/react.svg" />
+<img src>
 
 ## My Stats
 
