@@ -2,6 +2,10 @@
 
 ## Technical Skills
 
+I am a frontend dev who is used to working with JavaScript and my framework of choice is React.
+
+
+
 ## My Stats
 
 [![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=daawascript&count_private=true&show_icons=true&theme=dracula&include_all_commits&hide=issues,contribs&hide_border=true)](https://github.com/daawascript/github-readme-stats)
