@@ -4,7 +4,7 @@
 
 I am a frontend dev who is used to working with JavaScript and my framework of choice is React. Here is a list of the technologies I work with:
 
-<div style='display: flex'>  
+<div style='display: flex; height: 48px; gap: 16px;'>  
   <img src="https://raw.githubusercontent.com/daawascript/daawascript/711ec936ce37f3a63b2ce068312f89fa74b595d0/img/HTML.svg" alt="html logo"/>
   <img src="https://raw.githubusercontent.com/daawascript/daawascript/711ec936ce37f3a63b2ce068312f89fa74b595d0/img/css.svg" alt="css logo"/>
   <img src="https://raw.githubusercontent.com/daawascript/daawascript/711ec936ce37f3a63b2ce068312f89fa74b595d0/img/JS.svg" alt="JavaScript logo"/>
@@ -22,8 +22,11 @@ I am a frontend dev who is used to working with JavaScript and my framework of c
 
 ## My Stats
 
-[![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=daawascript&count_private=true&show_icons=true&theme=dracula&include_all_commits&hide=issues,contribs&hide_border=true)](https://github.com/daawascript/github-readme-stats)
+<div style='display: flex;'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daawascript&theme=dracula&layout=compact&hide_border=true)](https://github.com/daawascript/github-readme-stats)
+  [![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=daawascript&count_private=true&show_icons=true&theme=dracula&include_all_commits&hide=issues,contribs&hide_border=true)](https://github.com/daawascript/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daawascript&theme=dracula&layout=compact&hide_border=true)](https://github.com/daawascript/github-readme-stats)
+  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daawascript&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+</div>
